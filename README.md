@@ -7,7 +7,7 @@ Su set de datos se encuentra en: https://www.kaggle.com/c/nlp-getting-started.
 
 Autores:
 -
--
+- Bauni, Chiara (padrón: 102981)
 - Leloutre, Daniela (padrón: 96783)
 - Cai, Ana Maria (padrón: 102150)
 
