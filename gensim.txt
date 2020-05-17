@@ -100,7 +100,6 @@ fifteen
 fifty
 fill
 find
-fire
 first
 five
 for
